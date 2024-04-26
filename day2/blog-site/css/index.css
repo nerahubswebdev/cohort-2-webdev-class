@@ -1,0 +1,24 @@
+.image-style {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+
+.nav-link {
+  list-style-type: none;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 40px;
+  margin-top: 50px;
+  background-color: rgb(180, 82, 82);
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+}
